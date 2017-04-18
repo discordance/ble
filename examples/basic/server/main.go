@@ -9,9 +9,9 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/net/context"
 
-	"github.com/currantlabs/ble"
-	"github.com/currantlabs/ble/examples/lib"
-	"github.com/currantlabs/ble/examples/lib/dev"
+	"github.com/discordance/ble"
+	"github.com/discordance/ble/examples/lib"
+	"github.com/discordance/ble/examples/lib/dev"
 )
 
 var (

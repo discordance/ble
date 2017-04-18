@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/currantlabs/ble"
+	"github.com/discordance/ble"
 	"github.com/raff/goble/xpc"
 )
 
